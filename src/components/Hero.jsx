@@ -8,7 +8,7 @@ const Hero = () => {
             <div className='space-x-3'>
                 <button
                     type='button'
-                    onClick={() => window.open('https://github.com/ShishiraB/aireact')}
+                    onClick={() => window.open('https://github.com/ShishiraB/areact')}
                     className='black_btn'
                     >
                     GitHub
