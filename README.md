@@ -14,7 +14,7 @@ Areact is a web application that allows users to easily summarize blog posts fro
 
 ## Demo
 
-[You can visit here to have a live view](https://areact.netlify.app/)
+<a href="https://areact.netlify.app/" target="_blank">Live demo of Areac</a>
 
 ## Features
 
